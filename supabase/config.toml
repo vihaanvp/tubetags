@@ -1,0 +1,4 @@
+project_id = "ibynpxxjqlyjfxjznrtw"
+
+[functions.generate-tags]
+verify_jwt = false
