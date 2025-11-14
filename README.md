@@ -1,73 +1,39 @@
-# Welcome to your Lovable project
+# TubeTags
 
-## Project info
+Welcome to TubeTags — a friendly little helper that suggests great tags for your YouTube videos so your content gets found more easily.
 
-**URL**: https://lovable.dev/projects/9bb95c0e-d241-42ed-bdbf-9aacdc31d682
+Made using Lovable.dev — try it now: https://tubetags.lovable.app
 
-## How can I edit this code?
+What tubetags does
+- Takes your video title and description (or just your idea) and suggests a set of useful tags.
+- Cleans up duplicates, normalizes wording, and groups similar ideas so you get a tidy list you can copy into YouTube.
+- Gives quick suggestions that work for casual creators and pros alike.
 
-There are several ways of editing your application.
+How to use it (super simple)
+1. Go to https://tubetags.lovable.app
+2. Paste your video title, a short description, or a few keywords.
+3. Click the button to generate tags.
+4. Review the suggestions and copy them into your YouTube upload or paste them somewhere handy.
 
-**Use Lovable**
+A quick example
+- Title: "Easy 10-Minute Morning Yoga"
+- Suggested tags (example output): morning yoga, beginner yoga, 10-minute yoga, yoga routine, gentle flow
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9bb95c0e-d241-42ed-bdbf-9aacdc31d682) and start prompting.
+Tips for better tags
+- Use a mix of broad (e.g., "cooking") and specific tags (e.g., "sourdough starter recipe").
+- Keep tags relevant — focus on what the video is actually about.
+- Try including common phrases viewers might search for (questions, problems, how-tos).
 
-Changes made via Lovable will be committed automatically to this repo.
+Privacy & data
+- You control what you paste into the app. Avoid pasting private data you don't want to share.
+- If you have concerns about data usage, check the site or reach out to the maker for details.
 
-**Use your preferred IDE**
+Why use tubetags
+- Saves time when uploading videos.
+- Helps you think of keywords you might have missed.
+- Great for creators who want an easy way to improve discoverability without overthinking the technical side.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+License
+This project is licensed under the MIT License. See the LICENSE file in this repository for details.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/9bb95c0e-d241-42ed-bdbf-9aacdc31d682) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Enjoy using tubetags — simple, friendly tag help for every creator.
